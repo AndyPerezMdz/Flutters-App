@@ -8,3 +8,6 @@ Act 1. Introducción al Flutter.
 
 Act 2. Introducción al Flutter.
   Link del archivo Flutter: https://bit.ly/flutter-app-act2
+
+Act 2. Introducción al Flutter.
+  Link del archivo Flutter: https://bit.ly/3CGLpWu
